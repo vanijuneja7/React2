@@ -1,0 +1,7 @@
+#nav{
+    display:flex;
+    background-color:lightblue;
+    padding:20px;
+    text-align:center;
+    height:80px;
+}

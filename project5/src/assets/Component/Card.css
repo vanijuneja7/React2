@@ -1,0 +1,28 @@
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 250px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.card-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 25%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.card h1 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.card h3 {
+  font-size: 14px;
+  margin: 5px 0;
+  color: #555;
+}
