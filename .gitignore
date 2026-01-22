@@ -1,0 +1,9 @@
+# Ignore everything in this repo
+*
+
+# Allow only project6
+!project6/
+!project6/**
+
+# Allow .gitignore itself
+!.gitignore
